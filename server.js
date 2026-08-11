@@ -590,7 +590,7 @@ async function handleBuiltInCommands(conn, message, commandName, args, sessionId
                     const end = Date.now();
                     const responseTime = (end - start) / 1000;
                     
-                    const details = `⚡ *${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗 𝗠𝗗 𝗠𝗜𝗡𝗜} SPEED CHECK* ⚡
+                    const details = `⚡ *${SHAMII X MR ASAD MD MINI} SPEED CHECK* ⚡
                     
 ⏱️ Response Time: *${responseTime.toFixed(2)}s* ⚡
 👤 Owner: *${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗}*`;
