@@ -766,18 +766,16 @@ function generateMenu(userPrefix, sessionId) {
     });
     
 // Generate menu text with vertical style (no usage/links)
-let menuText = `
-`🪄 SHAMII X MRASAD MD MINI 🪄`
+// Generate menu text with vertical style (no usage/links)
+let menuText = `✨ SHAMII X MRASAD MD MINI ✨
 
 📌 Prefix : ${userPrefix}
-👤 Owner  : ${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗}
+👤 Owner  : SHAMII X MRASAD
 🔧 Total  : ${allCommands.length} commands
 
-
 📋 MENU LIST
-───────────────────
+────────────
 `;
-
 for (const [tag, cmds] of Object.entries(commandsByTag)) {
     menuText += `\n🔹 ${tag.toUpperCase()}:\n`;
 
