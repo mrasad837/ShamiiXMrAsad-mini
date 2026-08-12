@@ -671,7 +671,7 @@ async function handleBuiltInCommands(conn, message, commandName, args, sessionId
                     contextInfo: {
                         externalAdReply: {
                             title: "⚡ 𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗 𝗠𝗗 𝗠𝗜𝗡𝗜 Speed Test",
-                            body: `${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗 𝗠𝗗 𝗠𝗜𝗡𝗜} Performance Check`,
+                            body: `SHAMII X MRASAD MD MINI Performance Check`,
                             thumbnailUrl: MENU_IMAGE_URL,
                             mediaType: 1,
                             renderLargerThumbnail: true
