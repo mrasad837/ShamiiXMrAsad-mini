@@ -662,8 +662,8 @@ async function handleBuiltInCommands(conn, message, commandName, args, sessionId
                 const responseTime = (end - start) / 1000;
 
                 const details = `⚡ *SHAMII X MR ASAD MD MINI* SPEED CHECK ⚡
-⏱ Response Time: *${responseTime.toFixed(2)}s* ${reactionEmoji}`;
-👤 Owner: *${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗}*`;
+⏱ Response Time: *${responseTime.toFixed(2)}s* ${reactionEmoji}
+👤 Owner: *SHAMII X MRASAD*`;
 
                 // Send ping with the requested style
                 await conn.sendMessage(from, {
