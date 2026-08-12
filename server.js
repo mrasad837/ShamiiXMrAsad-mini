@@ -767,7 +767,7 @@ function generateMenu(userPrefix, sessionId) {
     
 // Generate menu text with vertical style (no usage/links)
 let menuText = `
-🚀 ${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗 𝗠𝗗 𝗠𝗜𝗡𝗜} 🚀
+`🪄 SHAMII X MRASAD MD MINI 🪄`
 
 📌 Prefix : ${userPrefix}
 👤 Owner  : ${𝗦𝗛𝗔𝗠𝗜𝗜 𝗫 𝗠𝗥𝗔𝗦𝗔𝗗}
